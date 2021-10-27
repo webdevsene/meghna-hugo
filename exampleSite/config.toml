@@ -1,11 +1,11 @@
 baseURL = "https://dmarch.netlify.com"
-disableLanguages = []
+disableLanguages = ["En"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
-title = "Meghna"
+title = "Demarch, votre partenaire en transformation digitale"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
