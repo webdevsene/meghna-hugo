@@ -1,5 +1,5 @@
 baseURL = "https://dmarch.netlify.com"
-disableLanguages = ["en"]
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
