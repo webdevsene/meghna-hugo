@@ -8,7 +8,7 @@ themesDir = "../.."
 title = "Demarch, votre partenaire en transformation digitale"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2021 Demarch | tous droits réservés. Designed by [DEMARCH] & Developed by [Onit365](https://demarch.sn/sitedemarch)"
+copyright = "Copyright &copy; 2021 Demarch | tous droits réservés. Designed by [DEMARCH](https://demarch.sn/sitedemarch) & Developed by [Onit365](https://omre.netlify.app)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
