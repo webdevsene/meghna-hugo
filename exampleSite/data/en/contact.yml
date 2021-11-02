@@ -1,31 +1,25 @@
-############################## Contact #############################
+---
 contact:
-  enable : true
-  title : Contact Us
-  subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
-
-  # Contact details
+  enable: true
+  title: Nous contacter
+  subtitle: Demarch Suarl
+  content: 'est une société d''ingénierie informatique spécialisée dans la production
+    de solutions GED. Fondée en 2017, Demarch est devenu partenaire privilégié de
+    la transformation digitale pour les entreprises de toute taille. '
   contact_list:
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
-      
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
-      
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
-      
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
-
-
-  # Contact form
+  - icon: ti-location-pin
+    info: 'Head office: Keur massar cité ucad 2, Dakar-Senegal'
+  - icon: ti-mobile
+    info: 'Phone: +221 78 062 17 74'
+  - icon: ti-printer
+    info: 'Fax: +880-31-000-000'
+  - icon: ti-email
+    info: 'Email: contact@demarch.sn'
   contact_form:
-    enable : true
-    form_action : "#" #contact form works with https://formspree.io
-    name : "Your Name"
-    email : "Your Email"
-    subject : "Subject"
-    message : "Message"
-    submit : "Submit"
+    enable: true
+    form_action: "#"
+    name: Nom - Prénom
+    email: Email
+    subject: Objet
+    message: Message
+    submit: Soumettre
