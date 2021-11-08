@@ -1,7 +1,8 @@
 ################################# Skill ##################################
 skill:
   enable : true
-  title : Our Skills
+  # title : Our Skills
+  title : Domaines de compétences
   subtitle : We’ve skilled in wide range of web and Other digital market tools.
   content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
   image : images/about/company-growth.webp
@@ -18,7 +19,7 @@ skill:
     - name :  Design
       percent : 80%
       
-    - name :  IOS Development
+    - name :  Symfony Development
       percent : 95%
       
     # skill item loop
